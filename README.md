@@ -1,2 +1,2 @@
 # tindog
-lending
+Simple lending
